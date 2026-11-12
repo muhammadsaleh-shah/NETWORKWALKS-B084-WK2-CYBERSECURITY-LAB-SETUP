@@ -4,6 +4,7 @@ Zemnap is a GUI base tool use for scanning. It is free and use in operating syst
 ## Installation of zenmap
 1. Open chrome or any browser. search nmap
 2. Select the official website of nmap
-3. Download the nmap according to your system OS
-4. install the nmap
-5.  
+   ![image alt](Zenmap/webste.png)
+4. Download the nmap according to your system OS
+5. install the nmap
+6.  
