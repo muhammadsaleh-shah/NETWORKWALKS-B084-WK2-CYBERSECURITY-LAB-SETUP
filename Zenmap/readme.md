@@ -11,4 +11,4 @@ Zemnap is a GUI base tool use for scanning. It is free and use in operating syst
 8.  After installation open the tool
 9.  To check your ip type ipconfig on windows and ifconfig on linux
 10.  Copy your ip and insert in the target box. For checking all devices connect on your network type your ip check the last digit to 0/24
-    
+    ![image alt](https://github.com/muhammadsaleh-shah/NETWORKWALKS-B084-WK2-CYBERSECURITY-LAB-SETUP/blob/main/Zenmap/search.png?raw=true)
