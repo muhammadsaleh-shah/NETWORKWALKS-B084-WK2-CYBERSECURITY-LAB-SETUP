@@ -24,6 +24,10 @@ Zemnap is a GUI base tool use for scanning. It is free and use in operating syst
   #### 10.0.0.1
   #### 10.0.0.2
   #### 10.0.0.3
+  ### Task6 What are the MAC addresses of the live hosts?
+   #### 52:54:00:12:35:00 
+   #### 08:00:27:E4:0D:00
+   #### 08:00:27:5A:87:BC
 ### Task7 Display & save the output topology in PDF Format on your desktop:
  To see topology click on topology
 
