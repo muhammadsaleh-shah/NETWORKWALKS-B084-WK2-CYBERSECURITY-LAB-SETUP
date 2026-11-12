@@ -58,9 +58,7 @@ Look for the returned address in the answer section. A domain can resolve to mor
 
 ## curl — inspect HTTP headers
 
-<!-- SCREENSHOT 3: Place the third screenshot immediately before step 9. -->
 
-**Screenshot 3:** Not supplied yet. When available, save it as `images/03-curl-headers.png` and replace this note with:
 ![curl HTTP headers output](03-curl-headers.png)
 
 **9. What can HTTP headers reveal?**
@@ -68,10 +66,6 @@ Look for the returned address in the answer section. A domain can resolve to mor
 HTTP response headers can reveal information such as the web server, caching behavior, redirects, and security-related header settings. They may expose implementation details, so review them as part of an authorized security assessment.
 
 **10. Run curl with the -I option.**
-
-```bash
-curl -I https://networkwalks.com
-```
 
 The `-I` option requests the response headers without downloading the full page body.
 
@@ -83,15 +77,8 @@ WAFW00F checks whether a website appears to be protected by a web application fi
 
 Run:
 
-```bash
-wafw00f https://networkwalks.com
-```
 
-Read the result carefully. A detection is an indication based on the tool's checks; a result that does not identify a WAF does not prove that no protection exists.
 
-<!-- SCREENSHOT 4: Place the fourth screenshot immediately after step 11. -->
-
-**Screenshot 4:** Not supplied yet. When available, save it as `images/04-wafw00f-output.png` and replace this note with:
 ![WAFW00F output](04-wafw00f-output.png)
 
 ## Quick command reference
@@ -110,15 +97,3 @@ Read the result carefully. A detection is an indication based on the tool's chec
 - Tool output can change over time because websites, DNS records, and hosting configurations change.
 - Do not treat detected versions or missing detections as proof of a vulnerability or absence of security controls.
 
-## Repository contents
-
-```text
-kali-web-recon-tools/
-├── README.md
-├── .gitignore
-└── images/
-    ├── 01-whois-output.png
-    └── 02-whatweb-output.png
-```
-
-The repository includes the two screenshots attached with the request. Screenshot 3 (curl) and screenshot 4 (WAFW00F) are marked as placeholders because those images were not attached.
