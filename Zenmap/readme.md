@@ -15,7 +15,8 @@ Zemnap is a GUI base tool use for scanning. It is free and use in operating syst
 11. To see topology click on topology
 
    ![image alt](https://github.com/muhammadsaleh-shah/NETWORKWALKS-B084-WK2-CYBERSECURITY-LAB-SETUP/blob/main/Zenmap/topology.png?raw=true)
-12. Download the topology by clicking save Graphic option
-13. select the path
-14. Now you can check the topology later
+12. Download the topology by clicking save Graphic option\
+13. select the path\
+14. Now you can check the topology later\
+   ![image alt](https://github.com/muhammadsaleh-shah/NETWORKWALKS-B084-WK2-CYBERSECURITY-LAB-SETUP/blob/main/Zenmap/topology%20pdf.png?raw=true)
  
