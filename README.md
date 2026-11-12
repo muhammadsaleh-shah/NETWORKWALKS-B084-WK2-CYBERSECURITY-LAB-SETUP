@@ -10,7 +10,7 @@ A beginner-friendly guide to using WHOIS, WhatWeb, `nslookup`, `curl`, and WAFW0
 
 WHOIS is used to retrieve public domain-registration information, such as the registrar, registration and update dates, expiry date, name servers, and domain status.
 
-![WHOIS command output](images/01-whois-output.png)
+![WHOIS command output](01-whois-output.png)
 
 **2. Open the terminal.**
 
@@ -26,7 +26,7 @@ whois networkwalks.com
 
 The terminal displays the available registration information for the domain. The exact fields depend on the registry and registrar.
 
-![WhatWeb terminal screenshot supplied with the request](images/02-whatweb-output.png)
+![WhatWeb terminal screenshot supplied with the request](02-whatweb-output.png)
 
 ## WhatWeb
 
@@ -61,7 +61,7 @@ Look for the returned address in the answer section. A domain can resolve to mor
 <!-- SCREENSHOT 3: Place the third screenshot immediately before step 9. -->
 
 **Screenshot 3:** Not supplied yet. When available, save it as `images/03-curl-headers.png` and replace this note with:
-`![curl HTTP headers output](images/03-curl-headers.png)`
+![curl HTTP headers output](03-curl-headers.png)
 
 **9. What can HTTP headers reveal?**
 
@@ -92,7 +92,7 @@ Read the result carefully. A detection is an indication based on the tool's chec
 <!-- SCREENSHOT 4: Place the fourth screenshot immediately after step 11. -->
 
 **Screenshot 4:** Not supplied yet. When available, save it as `images/04-wafw00f-output.png` and replace this note with:
-`![WAFW00F output](images/04-wafw00f-output.png)`
+![WAFW00F output](04-wafw00f-output.png)
 
 ## Quick command reference
 
