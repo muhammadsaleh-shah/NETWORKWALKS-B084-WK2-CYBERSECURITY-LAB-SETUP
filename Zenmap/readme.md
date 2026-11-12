@@ -12,13 +12,7 @@ Zemnap is a GUI base tool use for scanning. It is free and use in operating syst
 8.  After installation open the tool
 9.  To check your ip type ipconfig on windows and ifconfig on linux
 
-    To see topology click on topology
 
-   ![image alt](https://github.com/muhammadsaleh-shah/NETWORKWALKS-B084-WK2-CYBERSECURITY-LAB-SETUP/blob/main/Zenmap/topology.png?raw=true)
-12. Download the topology by clicking save Graphic option\
-13. select the path\
-14. Now you can check the topology later\
-   ![image alt](https://github.com/muhammadsaleh-shah/NETWORKWALKS-B084-WK2-CYBERSECURITY-LAB-SETUP/blob/main/Zenmap/topology%20pdf.png?raw=true)
    ### Task2 Find your local IP address & your LAN subnet
    for this type ipconfig on windows and ifconfig on linux\
    ### Task3 Find the list of live hosts/PC’s in your IP subnet
@@ -30,6 +24,15 @@ Zemnap is a GUI base tool use for scanning. It is free and use in operating syst
   #### 10.0.0.1
   #### 10.0.0.2
   #### 10.0.0.3
+### Task7 Display & save the output topology in PDF Format on your desktop:
+ To see topology click on topology
+
+   ![image alt](https://github.com/muhammadsaleh-shah/NETWORKWALKS-B084-WK2-CYBERSECURITY-LAB-SETUP/blob/main/Zenmap/topology.png?raw=true)
+12. Download the topology by clicking save Graphic option\
+13. select the path\
+Save the topology PDF and include it in your final report.\
+Now you can check the topology later\
+   ![image alt](https://github.com/muhammadsaleh-shah/NETWORKWALKS-B084-WK2-CYBERSECURITY-LAB-SETUP/blob/main/Zenmap/topology%20pdf.png?raw=true)
 
 
  
